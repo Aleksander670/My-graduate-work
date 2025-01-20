@@ -1,0 +1,62 @@
+﻿<Page x:Class="Philimon.pages.NotePad"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Philimon.pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="800" d:DesignWidth="1200"
+      Title="NotePad"
+      >
+
+
+    <DockPanel>
+        <Separator />
+        <ToolBar DockPanel.Dock="Top">
+            <Button Width="40" Height="40" Content="Назад" Name="Back" Click="Back_Click"></Button>
+            <Canvas>
+                <Button Width="100" Height="40" Content="Главная"></Button>
+                <Button Width="134" Height="40" Content="Сохранить как...." Canvas.Left="100" Click="Button_Click"/>
+                <Button Width="134" Height="40" Content="Импортировать" Canvas.Left="234" Click="Button_Click_1"/>
+            </Canvas>
+
+        </ToolBar>
+
+        <ToolBar DockPanel.Dock="Top">
+            <Separator />
+            <Button Command="ApplicationCommands.Open">
+                <Image Source="/sources/images/notepad/folder.png" Width="16" Height="16" MouseDown="Open_Executed" />
+            </Button>
+            <Button Command="ApplicationCommands.Save">
+                <Image Source="/sources/images/notepad/disk.png" Width="16" Height="16" />
+            </Button>
+            <Separator />
+            <ToggleButton Command="EditingCommands.ToggleBold" Name="btnBold">
+                <Image Source="/sources/images/notepad/text_bold.png" Width="16" Height="16" />
+            </ToggleButton>
+            <ToggleButton Command="EditingCommands.ToggleItalic" Name="btnItalic">
+                <Image Source="/sources/images/notepad/text_italic.png" Width="16" Height="16" />
+            </ToggleButton>
+            <ToggleButton Command="EditingCommands.ToggleUnderline" Name="btnUnderline">
+                <Image Source="/sources/images/notepad/text_italic.png" Width="16" Height="16" />
+            </ToggleButton>
+            <Separator />
+            <ComboBox Name="cmbFontFamily" Width="150" SelectionChanged="cmbFontFamily_SelectionChanged" />
+            <ComboBox Name="cmbFontSize" Width="50" IsEditable="True" TextBoxBase.TextChanged="cmbFontSize_TextChanged" />
+        </ToolBar>
+
+        <Canvas Background="Gray" Name="Canvas">
+            <RichTextBox x:Name="rtbEditor" SelectionChanged="rtbEditor_SelectionChanged" Width="822" Height="728" HorizontalAlignment="Center" VerticalAlignment="Center" UndoLimit="120" RenderTransformOrigin="0.5,0.5" Canvas.Left="232" >
+                <RichTextBox.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </RichTextBox.RenderTransform>
+            </RichTextBox>
+        </Canvas>
+    </DockPanel>
+
+</Page>

@@ -1,0 +1,288 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Philimon.App">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Philimon.Main" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Main.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Philimon.objects.DatabaseData">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>objects\DatabaseData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Philimon.objects.SoundPlay">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAgAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>objects\SoundPlay.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Philimon.objects.TestCaseTableDB">
+    <Position X="7.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>objects\TestCaseTableDB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Philimon.objects.UI.DataBrowser">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAICAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>objects\UI\DataBrowser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Philimon.objects.UI.FormObj">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Class Name="Philimon.objects.UI.FormObj.Items" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>objects\UI\FormObj.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="Philimon.objects.UI.FormObj.Browser" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>objects\UI\FormObj.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>objects\UI\FormObj.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Philimon.objects.UI.Icon">
+    <Position X="12.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAACAAEAAQAAAAAAAAAAAAAAAQAAAIgAA=</HashCode>
+      <FileName>objects\UI\Icon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Philimon.objects.UI.MissionForm">
+    <Position X="4" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAACAAAAAAAAAAAAACAAAAAAAAAAAwAACAABA=</HashCode>
+      <FileName>objects\UI\MissionForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Philimon.objects.UI.menu.MenuItems" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>objects\UI\menu\MenuItems.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Philimon.objects.UI.menu.StartMenu_folder">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAEAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>objects\UI\menu\StartMenu_folder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Philimon.objects.UI.menu.StartMenu_item">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAAAAAAEAAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>objects\UI\menu\StartMenu_item.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Philimon.pages.AutrizPage" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIgAAAAAAAAAAAAAAAAAAAAAAAggAABCAAAAAAAAA=</HashCode>
+      <FileName>pages\AutrizPage.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Philimon.pages.CheckList_ViewAndCreate" BaseTypeListCollapsed="true">
+    <Position X="16.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACgAAAAAAAAAACAAAIAAAAAAQAAAABAAAAAAAAUBA=</HashCode>
+      <FileName>pages\CheckList_ViewAndCreate.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Philimon.pages.DesktopPage" BaseTypeListCollapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEBAAgAEAAAAAAAAAAAAEACAAAAAAAAAABEAAA=</HashCode>
+      <FileName>pages\DesktopPage.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Philimon.pages.FolderPage" BaseTypeListCollapsed="true">
+    <Position X="14.5" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Struct Name="Philimon.pages.FolderPage.Fuch" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>pages\FolderPage.xaml.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAEAAQAAAAAAEAAAgEIAAAAAAAAAAAAACAABAAAAAA=</HashCode>
+      <FileName>pages\FolderPage.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Philimon.pages.Form_Developer" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAIAAAAAAAAAEAAAAAAAAAQAAA=</HashCode>
+      <FileName>pages\Form_Developer.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Philimon.pages.Form_infrastructure" BaseTypeListCollapsed="true">
+    <Position X="4" Y="7" Width="1.5" />
+    <NestedTypes>
+      <Struct Name="Philimon.pages.Form_infrastructure.Cells" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>pages\Form_infrastructure.xaml.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAIAAAgAAAQAAAQAAAAAAQAAQA=</HashCode>
+      <FileName>pages\Form_infrastructure.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Philimon.pages.Form_Tester" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Struct Name="Philimon.pages.Form_Tester.Cells" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>pages\Form_Tester.xaml.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Class Name="Philimon.pages.Form_Tester.Items" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>pages\Form_Tester.xaml.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAQCAAAAAAAAgAAAAIAAAAAAAQAAAQAAAAAAAAAQA=</HashCode>
+      <FileName>pages\Form_Tester.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Philimon.pages.NotePad" BaseTypeListCollapsed="true">
+    <Position X="16.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAgAAAEAABAAAIgAAIAAEAAAAAAAAIAAAAAAAAAEA=</HashCode>
+      <FileName>pages\NotePad.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Philimon.pages.OK" BaseTypeListCollapsed="true">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAQAAAAAAAAAAAAAQAIAAAA=</HashCode>
+      <FileName>pages\OK.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Philimon.pages.PassportPage" BaseTypeListCollapsed="true">
+    <Position X="11" Y="3.5" Width="1.5" />
+    <NestedTypes>
+      <Class Name="Philimon.pages.PassportPage.Items" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>pages\PassportPage.xaml.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAIAIAAAAAAAIAAAAAAAAgAAEAAAAAAAAAhA=</HashCode>
+      <FileName>pages\PassportPage.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Philimon.pages.redact_database" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAIAAAAAAACAAAAAABAAAAAABA=</HashCode>
+      <FileName>pages\redact_database.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Philimon.pages.Table">
+    <Position X="4" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAICAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>pages\redact_database.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Philimon.pages.ServerStatus" BaseTypeListCollapsed="true">
+    <Position X="14.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAACAAAAIAIAAAAMAJAAAAACAAAAAAAQABAAQBA=</HashCode>
+      <FileName>pages\ServerStatus.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Philimon.pages.settings_page" BaseTypeListCollapsed="true">
+    <Position X="7.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAgAAAAIAAAAAAIEAAAQAEAgCACAAAjAAAAEA=</HashCode>
+      <FileName>pages\settings_page.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Philimon.pages.TestCase_ViewAndCreate" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAgAAAAAAAAAACEABIAgQAAAQAEAAAAAAAIAAAQBE=</HashCode>
+      <FileName>pages\TestCase_ViewAndCreate.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Philimon.pages.TestItem">
+    <Position X="9.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAgAAAAAAAABAAAAgQAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>pages\TestCase_ViewAndCreate.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Philimon.pages.ViewAndCreate_Diagram" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>pages\ViewAndCreate_Diagram.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Philimon.Properties.Resources" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Philimon.Properties.Settings">
+    <Position X="7.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Philimon.pages.ChatPage" Collapsed="true">
+    <Position X="2.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>pages\ChatPage.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.255" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

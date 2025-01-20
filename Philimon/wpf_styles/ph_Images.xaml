@@ -1,0 +1,12 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <Style TargetType="{x:Type Rectangle}">
+        
+        <Setter Property="Stroke" Value="Gray"/>
+        <Setter Property="StrokeThickness" Value="1"/>
+        <Setter Property="RadiusX" Value="2"/>
+        <Setter Property="RadiusY" Value="2"/>
+    </Style>
+
+</ResourceDictionary>

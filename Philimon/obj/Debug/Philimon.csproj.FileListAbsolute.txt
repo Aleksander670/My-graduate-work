@@ -1,0 +1,201 @@
+c:\users\александр\documents\visual studio 2015\Projects\Philimon\Philimon\bin\Debug\Philimon.exe.config
+c:\users\александр\documents\visual studio 2015\Projects\Philimon\Philimon\bin\Debug\Philimon.exe
+c:\users\александр\documents\visual studio 2015\Projects\Philimon\Philimon\bin\Debug\Philimon.pdb
+c:\users\александр\documents\visual studio 2015\Projects\Philimon\Philimon\obj\Debug\App.g.cs
+c:\users\александр\documents\visual studio 2015\Projects\Philimon\Philimon\obj\Debug\Philimon_MarkupCompile.cache
+c:\users\александр\documents\visual studio 2015\Projects\Philimon\Philimon\obj\Debug\Philimon_MarkupCompile.lref
+c:\users\александр\documents\visual studio 2015\Projects\Philimon\Philimon\obj\Debug\Philimon.g.resources
+c:\users\александр\documents\visual studio 2015\Projects\Philimon\Philimon\obj\Debug\Philimon.Properties.Resources.resources
+c:\users\александр\documents\visual studio 2015\Projects\Philimon\Philimon\obj\Debug\Philimon.csproj.GenerateResource.Cache
+c:\users\александр\documents\visual studio 2015\Projects\Philimon\Philimon\obj\Debug\Philimon.exe
+c:\users\александр\documents\visual studio 2015\Projects\Philimon\Philimon\obj\Debug\Philimon.pdb
+c:\users\александр\documents\visual studio 2015\Projects\Philimon\Philimon\obj\Debug\Main.g.cs
+c:\users\александр\documents\visual studio 2015\Projects\Philimon\Philimon\obj\Debug\Main.baml
+c:\users\александр\documents\visual studio 2015\Projects\Philimon\Philimon\obj\Debug\pages\AutrizPage.g.cs
+c:\users\александр\documents\visual studio 2015\Projects\Philimon\Philimon\obj\Debug\pages\AutrizPage.baml
+C:\Users\Александр\documents\visual studio 2015\Projects\Philimon\Philimon\bin\Debug\MySql.Data.dll
+C:\Users\Александр\documents\visual studio 2015\Projects\Philimon\Philimon\bin\Debug\MySql.Data.xml
+C:\Users\Александр\documents\visual studio 2015\Projects\Philimon\Philimon\obj\Debug\pages\OK.g.cs
+C:\Users\Александр\documents\visual studio 2015\Projects\Philimon\Philimon\obj\Debug\pages\OK.baml
+C:\Users\Александр\documents\visual studio 2015\Projects\Philimon\Philimon\obj\Debug\pages\DesktopPage.g.cs
+C:\Users\Александр\documents\visual studio 2015\Projects\Philimon\Philimon\obj\Debug\pages\DesktopPage.baml
+C:\Users\Александр\documents\visual studio 2015\Projects\Philimon\Philimon\obj\Debug\pages\settings_page.g.cs
+C:\Users\Александр\documents\visual studio 2015\Projects\Philimon\Philimon\obj\Debug\pages\settings_page.baml
+C:\Users\Александр\documents\visual studio 2015\Projects\Philimon\Philimon\obj\Debug\Philimon_Content.g.cs
+C:\Users\Александр\documents\visual studio 2015\Projects\Philimon\Philimon\obj\Debug\pages\FolderPage.g.cs
+C:\Users\Александр\documents\visual studio 2015\Projects\Philimon\Philimon\obj\Debug\pages\FolderPage.baml
+C:\Users\Александр\documents\visual studio 2015\Projects\Philimon\Philimon\obj\Debug\pages\Form_infrastructure.g.cs
+C:\Users\Александр\documents\visual studio 2015\Projects\Philimon\Philimon\obj\Debug\pages\Form_infrastructure.baml
+C:\Users\Александр\documents\visual studio 2015\Projects\Philimon\Philimon\obj\Debug\wpf_styles\ph_Button.baml
+C:\Users\Александр\documents\visual studio 2015\Projects\Philimon\Philimon\obj\Debug\wpf_styles\ph_checkbox.baml
+C:\Users\Александр\documents\visual studio 2015\Projects\Philimon\Philimon\obj\Debug\wpf_styles\ph_Images.baml
+C:\Users\Александр\documents\visual studio 2015\Projects\Philimon\Philimon\obj\Debug\wpf_styles\ph_popup.baml
+C:\Users\Александр\documents\visual studio 2015\Projects\Philimon\Philimon\obj\Debug\wpf_styles\ph_progressbar.baml
+C:\Users\Александр\documents\visual studio 2015\Projects\Philimon\Philimon\obj\Debug\wpf_styles\ph_TextBox.baml
+C:\Users\Александр\documents\visual studio 2015\Projects\Philimon\Philimon\obj\Debug\wpf_styles\ph_Window.baml
+C:\Users\Александр\documents\visual studio 2015\Projects\Philimon\Philimon\obj\Debug\App.baml
+C:\Users\Александр\documents\visual studio 2015\Projects\Philimon\Philimon\obj\Debug\wpf_styles\ph_Slider.baml
+C:\Users\Александр\documents\visual studio 2015\Projects\Philimon\Philimon\obj\Debug\pages\PassportPage.g.cs
+C:\Users\Александр\documents\visual studio 2015\Projects\Philimon\Philimon\obj\Debug\pages\PassportPage.baml
+C:\Users\Александр\documents\visual studio 2015\Projects\Philimon\Philimon\obj\Debug\pages\Form_Tester.g.cs
+C:\Users\Александр\documents\visual studio 2015\Projects\Philimon\Philimon\obj\Debug\pages\Form_Tester.baml
+C:\Users\Александр\documents\visual studio 2015\Projects\Philimon\Philimon\obj\Debug\pages\TestCase_ViewAndCreate.g.cs
+C:\Users\Александр\documents\visual studio 2015\Projects\Philimon\Philimon\obj\Debug\pages\TestCase_ViewAndCreate.baml
+C:\Users\Александр\documents\visual studio 2015\Projects\Philimon\Philimon\obj\Debug\pages\CheckList_ViewAndCreate.g.cs
+C:\Users\Александр\documents\visual studio 2015\Projects\Philimon\Philimon\obj\Debug\pages\CheckList_ViewAndCreate.baml
+C:\Users\Александр\documents\visual studio 2015\Projects\Philimon\Philimon\obj\Debug\pages\NotePad.g.cs
+C:\Users\Александр\documents\visual studio 2015\Projects\Philimon\Philimon\obj\Debug\pages\NotePad.baml
+C:\Users\Александр\documents\visual studio 2015\Projects\Philimon\Philimon\obj\Debug\pages\ServerStatus.g.cs
+C:\Users\Александр\documents\visual studio 2015\Projects\Philimon\Philimon\obj\Debug\pages\ServerStatus.baml
+C:\Users\Александр\documents\visual studio 2015\Projects\Philimon\Philimon\obj\Debug\pages\redact_database.g.cs
+C:\Users\Александр\documents\visual studio 2015\Projects\Philimon\Philimon\obj\Debug\pages\redact_database.baml
+C:\Users\Александр\documents\visual studio 2015\Projects\Philimon\Philimon\obj\Debug\pages\Form_Developer.g.cs
+C:\Users\Александр\documents\visual studio 2015\Projects\Philimon\Philimon\obj\Debug\pages\Form_Developer.baml
+C:\Users\Александр\documents\visual studio 2015\Projects\Philimon\Philimon\obj\Debug\pages\ViewAndCreate_Diagram.g.cs
+C:\Users\Александр\documents\visual studio 2015\Projects\Philimon\Philimon\obj\Debug\pages\ViewAndCreate_Diagram.baml
+C:\Users\Александр\documents\visual studio 2015\Projects\Philimon\Philimon\obj\Debug\pages\ChatPage.g.cs
+C:\Users\Александр\documents\visual studio 2015\Projects\Philimon\Philimon\obj\Debug\pages\ChatPage.baml
+C:\Users\Александр\documents\visual studio 2015\Projects\Philimon\Philimon\obj\Debug\pages\MissionPage.g.cs
+C:\Users\Александр\documents\visual studio 2015\Projects\Philimon\Philimon\obj\Debug\pages\MissionPage.baml
+C:\Users\Александр\documents\visual studio 2015\Projects\Philimon\Philimon\obj\Debug\pages\RoleRedact.g.cs
+C:\Users\Александр\documents\visual studio 2015\Projects\Philimon\Philimon\obj\Debug\pages\RoleRedact.baml
+C:\Users\Александр\documents\visual studio 2015\Projects\Philimon\Philimon\obj\Debug\pages\LostPasswords.g.cs
+C:\Users\Александр\documents\visual studio 2015\Projects\Philimon\Philimon\obj\Debug\pages\LostPasswords.baml
+C:\Users\Александр\documents\visual studio 2015\Projects\Philimon\Philimon\obj\Debug\Philimon.csprojResolveAssemblyReference.cache
+C:\Users\Александр\documents\visual studio 2015\Projects\Philimon\Philimon\obj\Debug\pages\redact_algorithm.g.cs
+C:\Users\Александр\documents\visual studio 2015\Projects\Philimon\Philimon\obj\Debug\pages\redact_algorithm.baml
+F:\Philimon\Philimon\bin\Debug\Philimon.exe.config
+F:\Philimon\Philimon\obj\Debug\Philimon.exe
+F:\Philimon\Philimon\obj\Debug\Philimon.pdb
+F:\Philimon\Philimon\obj\Debug\wpf_styles\ph_Button.baml
+F:\Philimon\Philimon\obj\Debug\wpf_styles\ph_checkbox.baml
+F:\Philimon\Philimon\obj\Debug\wpf_styles\ph_Images.baml
+F:\Philimon\Philimon\obj\Debug\wpf_styles\ph_popup.baml
+F:\Philimon\Philimon\obj\Debug\wpf_styles\ph_progressbar.baml
+F:\Philimon\Philimon\obj\Debug\wpf_styles\ph_TextBox.baml
+F:\Philimon\Philimon\obj\Debug\wpf_styles\ph_Window.baml
+F:\Philimon\Philimon\obj\Debug\Main.g.cs
+F:\Philimon\Philimon\obj\Debug\pages\AutrizPage.g.cs
+F:\Philimon\Philimon\obj\Debug\pages\ChatPage.g.cs
+F:\Philimon\Philimon\obj\Debug\pages\CheckList_ViewAndCreate.g.cs
+F:\Philimon\Philimon\obj\Debug\pages\DesktopPage.g.cs
+F:\Philimon\Philimon\obj\Debug\pages\FolderPage.g.cs
+F:\Philimon\Philimon\obj\Debug\pages\Form_Developer.g.cs
+F:\Philimon\Philimon\obj\Debug\pages\Form_infrastructure.g.cs
+F:\Philimon\Philimon\obj\Debug\pages\Form_Tester.g.cs
+F:\Philimon\Philimon\obj\Debug\pages\LostPasswords.g.cs
+F:\Philimon\Philimon\obj\Debug\pages\MissionPage.g.cs
+F:\Philimon\Philimon\obj\Debug\pages\NotePad.g.cs
+F:\Philimon\Philimon\obj\Debug\pages\OK.g.cs
+F:\Philimon\Philimon\obj\Debug\pages\PassportPage.g.cs
+F:\Philimon\Philimon\obj\Debug\pages\redact_algorithm.g.cs
+F:\Philimon\Philimon\obj\Debug\pages\redact_database.g.cs
+F:\Philimon\Philimon\obj\Debug\pages\RoleRedact.g.cs
+F:\Philimon\Philimon\obj\Debug\pages\ServerStatus.g.cs
+F:\Philimon\Philimon\obj\Debug\pages\settings_page.g.cs
+F:\Philimon\Philimon\obj\Debug\pages\TestCase_ViewAndCreate.g.cs
+F:\Philimon\Philimon\obj\Debug\pages\ViewAndCreate_Diagram.g.cs
+F:\Philimon\Philimon\obj\Debug\App.g.cs
+F:\Philimon\Philimon\obj\Debug\Philimon_Content.g.cs
+F:\Philimon\Philimon\obj\Debug\Philimon_MarkupCompile.cache
+F:\Philimon\Philimon\obj\Debug\Philimon_MarkupCompile.lref
+F:\Philimon\Philimon\bin\Debug\Philimon.exe
+F:\Philimon\Philimon\bin\Debug\Philimon.pdb
+F:\Philimon\Philimon\obj\Debug\App.baml
+F:\Philimon\Philimon\obj\Debug\Main.baml
+F:\Philimon\Philimon\obj\Debug\pages\AutrizPage.baml
+F:\Philimon\Philimon\obj\Debug\pages\ChatPage.baml
+F:\Philimon\Philimon\obj\Debug\pages\CheckList_ViewAndCreate.baml
+F:\Philimon\Philimon\obj\Debug\pages\DesktopPage.baml
+F:\Philimon\Philimon\obj\Debug\pages\FolderPage.baml
+F:\Philimon\Philimon\obj\Debug\pages\Form_Developer.baml
+F:\Philimon\Philimon\obj\Debug\pages\Form_infrastructure.baml
+F:\Philimon\Philimon\obj\Debug\pages\Form_Tester.baml
+F:\Philimon\Philimon\obj\Debug\pages\LostPasswords.baml
+F:\Philimon\Philimon\obj\Debug\pages\MissionPage.baml
+F:\Philimon\Philimon\obj\Debug\pages\NotePad.baml
+F:\Philimon\Philimon\obj\Debug\pages\OK.baml
+F:\Philimon\Philimon\obj\Debug\pages\PassportPage.baml
+F:\Philimon\Philimon\obj\Debug\pages\redact_algorithm.baml
+F:\Philimon\Philimon\obj\Debug\pages\redact_database.baml
+F:\Philimon\Philimon\obj\Debug\pages\RoleRedact.baml
+F:\Philimon\Philimon\obj\Debug\pages\ServerStatus.baml
+F:\Philimon\Philimon\obj\Debug\pages\settings_page.baml
+F:\Philimon\Philimon\obj\Debug\pages\TestCase_ViewAndCreate.baml
+F:\Philimon\Philimon\obj\Debug\pages\ViewAndCreate_Diagram.baml
+F:\Philimon\Philimon\obj\Debug\wpf_styles\ph_Slider.baml
+F:\Philimon\Philimon\obj\Debug\Philimon.g.resources
+F:\Philimon\Philimon\obj\Debug\Philimon.Properties.Resources.resources
+F:\Philimon\Philimon\obj\Debug\Philimon.csproj.GenerateResource.Cache
+C:\Users\Александр\Desktop\Папки и прочее\дипломная работа\Philimon\Philimon\bin\Debug\Philimon.exe.config
+C:\Users\Александр\Desktop\Папки и прочее\дипломная работа\Philimon\Philimon\bin\Debug\Philimon.exe
+C:\Users\Александр\Desktop\Папки и прочее\дипломная работа\Philimon\Philimon\bin\Debug\Philimon.pdb
+C:\Users\Александр\Desktop\Папки и прочее\дипломная работа\Philimon\Philimon\bin\Debug\MySql.Data.dll
+C:\Users\Александр\Desktop\Папки и прочее\дипломная работа\Philimon\Philimon\bin\Debug\System.Memory.dll
+C:\Users\Александр\Desktop\Папки и прочее\дипломная работа\Philimon\Philimon\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Александр\Desktop\Папки и прочее\дипломная работа\Philimon\Philimon\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Александр\Desktop\Папки и прочее\дипломная работа\Philimon\Philimon\bin\Debug\System.Buffers.dll
+C:\Users\Александр\Desktop\Папки и прочее\дипломная работа\Philimon\Philimon\bin\Debug\MySql.Data.xml
+C:\Users\Александр\Desktop\Папки и прочее\дипломная работа\Philimon\Philimon\obj\Debug\Philimon.csproj.AssemblyReference.cache
+C:\Users\Александр\Desktop\Папки и прочее\дипломная работа\Philimon\Philimon\obj\Debug\wpf_styles\ph_Button.baml
+C:\Users\Александр\Desktop\Папки и прочее\дипломная работа\Philimon\Philimon\obj\Debug\wpf_styles\ph_checkbox.baml
+C:\Users\Александр\Desktop\Папки и прочее\дипломная работа\Philimon\Philimon\obj\Debug\wpf_styles\ph_Images.baml
+C:\Users\Александр\Desktop\Папки и прочее\дипломная работа\Philimon\Philimon\obj\Debug\wpf_styles\ph_popup.baml
+C:\Users\Александр\Desktop\Папки и прочее\дипломная работа\Philimon\Philimon\obj\Debug\wpf_styles\ph_progressbar.baml
+C:\Users\Александр\Desktop\Папки и прочее\дипломная работа\Philimon\Philimon\obj\Debug\wpf_styles\ph_TextBox.baml
+C:\Users\Александр\Desktop\Папки и прочее\дипломная работа\Philimon\Philimon\obj\Debug\wpf_styles\ph_Window.baml
+C:\Users\Александр\Desktop\Папки и прочее\дипломная работа\Philimon\Philimon\obj\Debug\Main.g.cs
+C:\Users\Александр\Desktop\Папки и прочее\дипломная работа\Philimon\Philimon\obj\Debug\pages\AutrizPage.g.cs
+C:\Users\Александр\Desktop\Папки и прочее\дипломная работа\Philimon\Philimon\obj\Debug\pages\ChatPage.g.cs
+C:\Users\Александр\Desktop\Папки и прочее\дипломная работа\Philimon\Philimon\obj\Debug\pages\CheckList_ViewAndCreate.g.cs
+C:\Users\Александр\Desktop\Папки и прочее\дипломная работа\Philimon\Philimon\obj\Debug\pages\DesktopPage.g.cs
+C:\Users\Александр\Desktop\Папки и прочее\дипломная работа\Philimon\Philimon\obj\Debug\pages\FolderPage.g.cs
+C:\Users\Александр\Desktop\Папки и прочее\дипломная работа\Philimon\Philimon\obj\Debug\pages\Form_Developer.g.cs
+C:\Users\Александр\Desktop\Папки и прочее\дипломная работа\Philimon\Philimon\obj\Debug\pages\Form_infrastructure.g.cs
+C:\Users\Александр\Desktop\Папки и прочее\дипломная работа\Philimon\Philimon\obj\Debug\pages\Form_Tester.g.cs
+C:\Users\Александр\Desktop\Папки и прочее\дипломная работа\Philimon\Philimon\obj\Debug\pages\LostPasswords.g.cs
+C:\Users\Александр\Desktop\Папки и прочее\дипломная работа\Philimon\Philimon\obj\Debug\pages\MissionPage.g.cs
+C:\Users\Александр\Desktop\Папки и прочее\дипломная работа\Philimon\Philimon\obj\Debug\pages\NotePad.g.cs
+C:\Users\Александр\Desktop\Папки и прочее\дипломная работа\Philimon\Philimon\obj\Debug\pages\OK.g.cs
+C:\Users\Александр\Desktop\Папки и прочее\дипломная работа\Philimon\Philimon\obj\Debug\pages\PassportPage.g.cs
+C:\Users\Александр\Desktop\Папки и прочее\дипломная работа\Philimon\Philimon\obj\Debug\pages\redact_algorithm.g.cs
+C:\Users\Александр\Desktop\Папки и прочее\дипломная работа\Philimon\Philimon\obj\Debug\pages\redact_database.g.cs
+C:\Users\Александр\Desktop\Папки и прочее\дипломная работа\Philimon\Philimon\obj\Debug\pages\RoleRedact.g.cs
+C:\Users\Александр\Desktop\Папки и прочее\дипломная работа\Philimon\Philimon\obj\Debug\pages\ServerStatus.g.cs
+C:\Users\Александр\Desktop\Папки и прочее\дипломная работа\Philimon\Philimon\obj\Debug\pages\settings_page.g.cs
+C:\Users\Александр\Desktop\Папки и прочее\дипломная работа\Philimon\Philimon\obj\Debug\pages\TestCase_ViewAndCreate.g.cs
+C:\Users\Александр\Desktop\Папки и прочее\дипломная работа\Philimon\Philimon\obj\Debug\pages\ViewAndCreate_Diagram.g.cs
+C:\Users\Александр\Desktop\Папки и прочее\дипломная работа\Philimon\Philimon\obj\Debug\App.g.cs
+C:\Users\Александр\Desktop\Папки и прочее\дипломная работа\Philimon\Philimon\obj\Debug\Philimon_Content.g.cs
+C:\Users\Александр\Desktop\Папки и прочее\дипломная работа\Philimon\Philimon\obj\Debug\Philimon_MarkupCompile.cache
+C:\Users\Александр\Desktop\Папки и прочее\дипломная работа\Philimon\Philimon\obj\Debug\Philimon_MarkupCompile.lref
+C:\Users\Александр\Desktop\Папки и прочее\дипломная работа\Philimon\Philimon\obj\Debug\App.baml
+C:\Users\Александр\Desktop\Папки и прочее\дипломная работа\Philimon\Philimon\obj\Debug\Main.baml
+C:\Users\Александр\Desktop\Папки и прочее\дипломная работа\Philimon\Philimon\obj\Debug\pages\AutrizPage.baml
+C:\Users\Александр\Desktop\Папки и прочее\дипломная работа\Philimon\Philimon\obj\Debug\pages\ChatPage.baml
+C:\Users\Александр\Desktop\Папки и прочее\дипломная работа\Philimon\Philimon\obj\Debug\pages\CheckList_ViewAndCreate.baml
+C:\Users\Александр\Desktop\Папки и прочее\дипломная работа\Philimon\Philimon\obj\Debug\pages\DesktopPage.baml
+C:\Users\Александр\Desktop\Папки и прочее\дипломная работа\Philimon\Philimon\obj\Debug\pages\FolderPage.baml
+C:\Users\Александр\Desktop\Папки и прочее\дипломная работа\Philimon\Philimon\obj\Debug\pages\Form_Developer.baml
+C:\Users\Александр\Desktop\Папки и прочее\дипломная работа\Philimon\Philimon\obj\Debug\pages\Form_infrastructure.baml
+C:\Users\Александр\Desktop\Папки и прочее\дипломная работа\Philimon\Philimon\obj\Debug\pages\Form_Tester.baml
+C:\Users\Александр\Desktop\Папки и прочее\дипломная работа\Philimon\Philimon\obj\Debug\pages\LostPasswords.baml
+C:\Users\Александр\Desktop\Папки и прочее\дипломная работа\Philimon\Philimon\obj\Debug\pages\MissionPage.baml
+C:\Users\Александр\Desktop\Папки и прочее\дипломная работа\Philimon\Philimon\obj\Debug\pages\NotePad.baml
+C:\Users\Александр\Desktop\Папки и прочее\дипломная работа\Philimon\Philimon\obj\Debug\pages\OK.baml
+C:\Users\Александр\Desktop\Папки и прочее\дипломная работа\Philimon\Philimon\obj\Debug\pages\PassportPage.baml
+C:\Users\Александр\Desktop\Папки и прочее\дипломная работа\Philimon\Philimon\obj\Debug\pages\redact_algorithm.baml
+C:\Users\Александр\Desktop\Папки и прочее\дипломная работа\Philimon\Philimon\obj\Debug\pages\redact_database.baml
+C:\Users\Александр\Desktop\Папки и прочее\дипломная работа\Philimon\Philimon\obj\Debug\pages\RoleRedact.baml
+C:\Users\Александр\Desktop\Папки и прочее\дипломная работа\Philimon\Philimon\obj\Debug\pages\ServerStatus.baml
+C:\Users\Александр\Desktop\Папки и прочее\дипломная работа\Philimon\Philimon\obj\Debug\pages\settings_page.baml
+C:\Users\Александр\Desktop\Папки и прочее\дипломная работа\Philimon\Philimon\obj\Debug\pages\TestCase_ViewAndCreate.baml
+C:\Users\Александр\Desktop\Папки и прочее\дипломная работа\Philimon\Philimon\obj\Debug\pages\ViewAndCreate_Diagram.baml
+C:\Users\Александр\Desktop\Папки и прочее\дипломная работа\Philimon\Philimon\obj\Debug\wpf_styles\ph_Slider.baml
+C:\Users\Александр\Desktop\Папки и прочее\дипломная работа\Philimon\Philimon\obj\Debug\Philimon.g.resources
+C:\Users\Александр\Desktop\Папки и прочее\дипломная работа\Philimon\Philimon\obj\Debug\Philimon.Properties.Resources.resources
+C:\Users\Александр\Desktop\Папки и прочее\дипломная работа\Philimon\Philimon\obj\Debug\Philimon.csproj.GenerateResource.cache
+C:\Users\Александр\Desktop\Папки и прочее\дипломная работа\Philimon\Philimon\obj\Debug\Philimon.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\Папки и прочее\дипломная работа\Philimon\Philimon\obj\Debug\Philimon.csproj.Up2Date
+C:\Users\Александр\Desktop\Папки и прочее\дипломная работа\Philimon\Philimon\obj\Debug\Philimon.exe
+C:\Users\Александр\Desktop\Папки и прочее\дипломная работа\Philimon\Philimon\obj\Debug\Philimon.pdb

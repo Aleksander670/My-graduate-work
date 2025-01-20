@@ -1,0 +1,375 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{AFA8058F-115A-4D8E-BB57-B8C16CD61E65}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Philimon</RootNamespace>
+    <AssemblyName>Philimon</AssemblyName>
+    <TargetFrameworkVersion>v4.8.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>Philimon.App</StartupObject>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>PhilimonIco.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=8.3.0.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\MySQL\MySQL Connector NET 8.3.0\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Page Include="Main.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Main.xaml.cs">
+      <DependentUpon>Main.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Include="pages\AutrizPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="pages\ChatPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="pages\CheckList_ViewAndCreate.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="pages\DesktopPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="pages\FolderPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="pages\Form_Developer.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="pages\Form_infrastructure.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="pages\Form_Tester.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="pages\LostPasswords.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="pages\MissionPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="pages\NotePad.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="pages\OK.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="pages\PassportPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="pages\redact_algorithm.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="pages\redact_database.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="pages\RoleRedact.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="pages\ServerStatus.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="pages\settings_page.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="pages\TestCase_ViewAndCreate.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="pages\ViewAndCreate_Diagram.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="wpf_styles\ph_Slider.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="wpf_styles\ph_Button.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="wpf_styles\ph_checkbox.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="wpf_styles\ph_Images.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="wpf_styles\ph_popup.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="wpf_styles\ph_progressbar.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="wpf_styles\ph_TextBox.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="wpf_styles\ph_Window.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="objects\DatabaseData.cs" />
+    <Compile Include="objects\SoundPlay.cs" />
+    <Compile Include="objects\TestCaseTableDB.cs" />
+    <Compile Include="objects\UI\DataBrowser.cs" />
+    <Compile Include="objects\UI\FormObj.cs" />
+    <Compile Include="objects\UI\Icon.cs" />
+    <Compile Include="objects\UI\menu\MenuItems.cs" />
+    <Compile Include="objects\UI\menu\StartMenu_item.cs" />
+    <Compile Include="objects\UI\menu\StartMenu_folder.cs" />
+    <Compile Include="objects\UI\MissionForm.cs" />
+    <Compile Include="pages\AutrizPage.xaml.cs">
+      <DependentUpon>AutrizPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="pages\ChatPage.xaml.cs">
+      <DependentUpon>ChatPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="pages\CheckList_ViewAndCreate.xaml.cs">
+      <DependentUpon>CheckList_ViewAndCreate.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="pages\DesktopPage.xaml.cs">
+      <DependentUpon>DesktopPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="pages\FolderPage.xaml.cs">
+      <DependentUpon>FolderPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="pages\Form_Developer.xaml.cs">
+      <DependentUpon>Form_Developer.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="pages\Form_infrastructure.xaml.cs">
+      <DependentUpon>Form_infrastructure.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="pages\Form_Tester.xaml.cs">
+      <DependentUpon>Form_Tester.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="pages\LostPasswords.xaml.cs">
+      <DependentUpon>LostPasswords.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="pages\MissionPage.xaml.cs">
+      <DependentUpon>MissionPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="pages\NotePad.xaml.cs">
+      <DependentUpon>NotePad.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="pages\OK.xaml.cs">
+      <DependentUpon>OK.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="pages\PassportPage.xaml.cs">
+      <DependentUpon>PassportPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="pages\redact_algorithm.xaml.cs">
+      <DependentUpon>redact_algorithm.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="pages\redact_database.xaml.cs">
+      <DependentUpon>redact_database.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="pages\RoleRedact.xaml.cs">
+      <DependentUpon>RoleRedact.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="pages\ServerStatus.xaml.cs">
+      <DependentUpon>ServerStatus.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="pages\settings_page.xaml.cs">
+      <DependentUpon>settings_page.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="pages\TestCase_ViewAndCreate.xaml.cs">
+      <DependentUpon>TestCase_ViewAndCreate.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="pages\ViewAndCreate_Diagram.xaml.cs">
+      <DependentUpon>ViewAndCreate_Diagram.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="sources\images\settings.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="sources\images\logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="sources\images\company_test.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="sources\images\complete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="sources\images\error.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="sources\images\Loading_ico.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="sources\images\desktopTest.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="sources\images\title_settings.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="sources\images\settings\about_system_ico.png" />
+    <Resource Include="sources\images\settings\data_ico.png" />
+    <Resource Include="sources\images\settings\display_ico.png" />
+    <Resource Include="sources\images\settings\guide_ico.jpg" />
+    <Resource Include="sources\images\settings\profile_ico.png" />
+    <Resource Include="sources\images\settings\security_ico.png" />
+    <Resource Include="sources\images\settings\sounds_ico.png" />
+    <Resource Include="sources\images\settings\special_func_ico.png" />
+    <Resource Include="sources\images\settings\styles_ico.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="sources\images\settings\back.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="sources\images\ico_dammy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="sources\images\redact.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="sources\images\settings\telefon_ico.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="sources\images\settings\email_ico.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="sources\images\settings\telegram_ico.png" />
+    <Resource Include="sources\images\settings\vk_ico.png" />
+    <Resource Include="sources\images\settings\whatsApp_ico.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="sources\images\folder_ico.jpg" />
+    <Resource Include="sources\images\infract.png" />
+    <Resource Include="sources\images\departament.png" />
+    <Resource Include="sources\images\tester_ico.png" />
+    <Resource Include="sources\images\delete.png" />
+    <Resource Include="sources\images\preview.png" />
+    <Resource Include="sources\images\notepad\disk.png" />
+    <Resource Include="sources\images\notepad\folder.png" />
+    <Resource Include="sources\images\notepad\text_bold.png" />
+    <Resource Include="sources\images\notepad\text_italic.png" />
+    <Resource Include="sources\images\tableIco.png" />
+    <Resource Include="sources\images\missionIco.png" />
+    <Resource Include="sources\images\MissionCellIco.png" />
+    <Resource Include="PhilimonIco.ico" />
+    <Resource Include="sources\PhilimonIco.ico" />
+    <Resource Include="sources\images\request.png" />
+    <Content Include="sources\sounds\welcome_test.wav" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
